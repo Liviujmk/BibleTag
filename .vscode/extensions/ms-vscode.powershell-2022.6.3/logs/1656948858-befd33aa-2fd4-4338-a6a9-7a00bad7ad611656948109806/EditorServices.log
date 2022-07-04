@@ -1,0 +1,2 @@
+2022-07-04 18:34:24.756 +03:00 [INF] ReadLine overridden with 'Microsoft.PowerShell.EditorServices.Services.PowerShell.Console.PsrlReadLine'
+2022-07-04 18:34:25.494 +03:00 [WRN] No ConfigurationItems have been defined, configuration won't surface any configuration from the client!
